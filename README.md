@@ -39,4 +39,6 @@
  
  
  ## RESULT
+ ![EXP1 2 drawing_page-0001](https://github.com/user-attachments/assets/55bf0156-8ba7-4e95-a2da-790c645ebf40)
+
  Thus the given sketch is drawn and drafted using fusion 360 tool.
